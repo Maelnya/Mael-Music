@@ -1,12 +1,12 @@
-<p align="center"><img src="https://github.com/AyiinXd/AyiinMusic/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/Maelnya/Mael-Music/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
     <a href="https://t.me/YinzRobot"> Ready-To-Use Bot </a> •
-    <a href="https://t.me/AyiinSupport"> Support Channel </a> •
-    <a href="https://t.me/AyiinXdSupport"> Support Chat </a> 
+    <a href="https://t.me/crossouy"> Support Channel </a> •
+    <a href="https://t.me/privategrupnya"> Support Chat </a> 
 </p>
     
 # Ayiin Music Bot
